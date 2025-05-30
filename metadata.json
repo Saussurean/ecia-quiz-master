@@ -1,0 +1,6 @@
+{
+  "name": "ECIA Quiz Master",
+  "description": "A web application to help study for the ECIA questionnaire using a learn mode and an interactive study mode with spaced repetition.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
